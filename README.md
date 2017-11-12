@@ -27,4 +27,8 @@
 
 ![](https://github.com/TheDIYGuy999/Mega_PLC/blob/master/wired.jpg)
 
+## Videos:
+- I/O boards: https://www.youtube.com/watch?v=W2pYYh6aUXc
+- First tepper tests: https://www.youtube.com/watch?v=gJDdZBuH5Kc
+
 (c) 2016  TheDIYGuy999
